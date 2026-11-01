@@ -1,0 +1,13 @@
+{
+  "app_name": "Ta.Tu",
+  "game_exe": "Ta.Tu.exe",
+  "game_args": [],
+  "channels": [
+    "stable",
+    "beta",
+    "test"
+  ],
+  "default_channel": "stable",
+  "min_launcher_version": "1.0.0",
+  "launch_secret": "CHANGE-ME-to-a-long-random-string"
+}
